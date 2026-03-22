@@ -1,5 +1,13 @@
 [
   {
+    "id": 1774210175652,
+    "title": "Learning AI with Manolo Remiddi",
+    "body": "Augmented Mind is an AI project and philosophy designed by Manolo Remiddi where he invites all individuals to come and join him in his journey on building, learning and working with AI in his everyday world.  He has started a YouTube channel of his journey and have decided to follow his journey in order to learn and retain what insights he has learned throughout his journey.  He is the main reason I started my blog to help me record the journey I'm making with AI because my goal is to become an AI Master.  I would like to one day contribute what I have learned to the Augmented Mind project but first I must become more experienced in building something useful on my own.",
+    "category": "Reflection",
+    "date": "March 22, 2026",
+    "excerpt": "Augmented Mind is an AI project and philosophy designed by Manolo Remiddi where he invites all individuals to come an..."
+  },
+  {
     "id": 1774209775774,
     "title": "Claude.ai with Open Brain",
     "body": "Idea today was to take the \"Open Brain\" idea from Nate B Jones and his YouTube video on the Open Brain Idea.  The original idea was to build the Triune-Brain with the Open Brain idea but the project was becoming to complicated and not stable enough to continue the project.  So the idea was to run Claude.ai with the my Open Brain VPS that had already been developed so that the knowledge building and designing the Triune-Brain could be retained.  Today I used both Claude.ai and Claude Code running on the openmemory VPS to create the connection between the work being done with Claude.ai.  This way all the knowledge and road blocks found doing all the projects that I have in the pipeline can be retained within memory.",
