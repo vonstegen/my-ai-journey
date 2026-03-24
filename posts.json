@@ -1,5 +1,13 @@
 [
   {
+    "id": 1774381461867,
+    "title": "Gaming HOME Desktop as Lumen",
+    "body": "Today we setup an SSH connection with my Home Gaming Desktop computer to make use of the machine while I'm not using it.  The idea is to use more resources with what I already have.  When I use the computer for flight training or running flight simulator, I can set the computer up to have Lumen recognize when the computer is being used for simulation.",
+    "category": "Reflection",
+    "date": "March 24, 2026",
+    "excerpt": "Today we setup an SSH connection with my Home Gaming Desktop computer to make use of the machine while I'm not using ..."
+  },
+  {
     "id": 1774278981710,
     "title": "Create a method to download web videos and create scripts from them",
     "body": "Today we create a few scripts with a workflow to help with the journaling of the videos that I watch and use for my AI journey.  I used the same for the Book Profits Accelerator program to help log all the work and knowledge that I gained from that program to build the Book Arbitrage Agent (BAA) project.  I wanted to use this knowledge to give my Open Brain more context of the knowledge that I retain and assist on ideas or projects when building together with AI.",
