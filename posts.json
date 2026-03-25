@@ -1,5 +1,13 @@
 [
   {
+    "id": 1774398424547,
+    "title": "New addon to the Triune Brain",
+    "body": "Today Lumen was launched on my Home Gaming Desktop with Claude Code and Open Claw installed.  The first idea was for Lumen to be a light weight chat bot running on Dell XPS, but with more thought into the design, Lumen would have been useless when the laptop was powered off, out battery, or not in use (which could be fixed).  I had the idea of using Lumen as the Open Claw side of the TB and then Vigil as Agent-Zero to try and implement both worlds to my Open Brain.",
+    "category": "Reflection",
+    "date": "March 24, 2026",
+    "excerpt": "Today Lumen was launched on my Home Gaming Desktop with Claude Code and Open Claw installed.  The first idea was for ..."
+  },
+  {
     "id": 1774381461867,
     "title": "Gaming HOME Desktop as Lumen",
     "body": "Today we setup an SSH connection with my Home Gaming Desktop computer to make use of the machine while I'm not using it.  The idea is to use more resources with what I already have.  When I use the computer for flight training or running flight simulator, I can set the computer up to have Lumen recognize when the computer is being used for simulation.",
