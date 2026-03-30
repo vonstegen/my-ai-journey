@@ -1,5 +1,13 @@
 [
   {
+    "id": 1774914619508,
+    "title": "Working towards a working Resonance-OS build",
+    "body": "Today We worked on building a Resonance-OS build on to Lumen.  Lumen is the gaming desktop computer that will be used as one of the Triune-Brains.  Lumen will be built with Resonance-OS and with a Git structure to keep track of the changes and upgrades to its structure and architecture.",
+    "category": "Projects",
+    "date": "March 30, 2026",
+    "excerpt": "Today We worked on building a Resonance-OS build on to Lumen.  Lumen is the gaming desktop computer that will be used..."
+  },
+  {
     "id": 1774398424547,
     "title": "New addon to the Triune Brain",
     "body": "Today Lumen was launched on my Home Gaming Desktop with Claude Code and Open Claw installed.  The first idea was for Lumen to be a light weight chat bot running on Dell XPS, but with more thought into the design, Lumen would have been useless when the laptop was powered off, out battery, or not in use (which could be fixed).  I had the idea of using Lumen as the Open Claw side of the TB and then Vigil as Agent-Zero to try and implement both worlds to my Open Brain.",
